@@ -8,8 +8,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="FluentModels" Version="1.1.9" />
-		<PackageReference Include="Nerdbank.GitVersioning" Version="3.6.143">
+		<PackageReference Include="FluentModels" Version="1.2.6" />
+		<PackageReference Include="Nerdbank.GitVersioning" Version="3.7.112">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>

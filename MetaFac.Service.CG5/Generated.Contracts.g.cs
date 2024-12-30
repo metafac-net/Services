@@ -5,7 +5,7 @@
 // </auto-generated>
 // <information>
 // This file was generated using MetaFac.CG4 tools and user supplied metadata.
-// Generator: Contracts.2.9
+// Generator: Contracts.3.2
 // Metadata : MetaFac.Service.CG5.Schema
 // </information>
 #endregion

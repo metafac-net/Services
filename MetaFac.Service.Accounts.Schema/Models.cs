@@ -1,4 +1,4 @@
-﻿using FluentModels;
+﻿using MetaFac.CG4.Schemas;
 using System;
 
 namespace MetaFac.Service.Accounts.Schema

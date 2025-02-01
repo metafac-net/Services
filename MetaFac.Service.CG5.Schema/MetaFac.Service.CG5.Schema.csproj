@@ -8,8 +8,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="MetaFac.CG4.Schemas" Version="3.2.2" />
-		<PackageReference Include="Nerdbank.GitVersioning" Version="3.7.112">
+		<PackageReference Include="MetaFac.CG4.Schemas" Version="3.2.4" />
+		<PackageReference Include="Nerdbank.GitVersioning" Version="3.7.115">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>

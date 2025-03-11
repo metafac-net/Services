@@ -31,9 +31,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="MetaFac.CG4.Runtime" Version="3.2.4" />
-		<PackageReference Include="MetaFac.CG4.Runtime.MessagePack" Version="3.2.4" />
-		<PackageReference Include="MetaFac.Mutability" Version="3.0.3" />
+		<PackageReference Include="MetaFac.CG4.Runtime" Version="3.2.6" />
+		<PackageReference Include="MetaFac.CG4.Runtime.MessagePack" Version="3.2.6" />
+		<PackageReference Include="MetaFac.Mutability" Version="3.0.6" />
 		<PackageReference Include="Nerdbank.GitVersioning" Version="3.7.115">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
